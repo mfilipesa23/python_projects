@@ -1,6 +1,7 @@
 # Sal's shipping
 
-# This program informs the user of the package weight and determines the cheapest shipping method for that package. There are three possible shippment methods: Ground Shipping, Ground Shipping Premium, Drone Shipping.
+# This program informs the user of the package weight and determines the cheapest shipping method for that package. 
+# There are three possible shippment methods: Ground Shipping, Ground Shipping Premium, Drone Shipping.
 
 price = 0                      # Variable assignment
 price_ground = 0          # auxiliary variable Ground Shipping
